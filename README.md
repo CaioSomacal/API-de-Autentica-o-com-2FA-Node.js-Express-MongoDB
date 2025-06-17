@@ -99,5 +99,5 @@ Esta versão serve como base sólida para futuras melhorias, como integração c
 
 | Nome          | Descrição                                | Contatos                                  |
 |---------------|-----------------------------------------|-------------------------------------------|
-| Caio Somacal  | Desenvolvedor Full Stack & Analista de Segurança | [GitHub](https://github.com/seu-usuario) | [LinkedIn](https://linkedin.com/in/seu-usuario) |
+| Caio Somacal  | Desenvolvedor Full Stack | [GitHub](https://github.com/CaioSomacal) | [LinkedIn](https://linkedin.com/in/seu-usuario) |
 
