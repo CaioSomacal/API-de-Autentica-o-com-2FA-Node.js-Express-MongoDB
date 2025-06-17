@@ -1,6 +1,23 @@
 # API de Autenticação com 2FA (Node.js + Express + MongoDB)
 
 Sistema robusto de autenticação de usuários com suporte a autenticação de dois fatores (2FA) via TOTP, compatível com apps como Google Authenticator e Authy.
+---
+
+## Sobre esta Versão
+
+Esta é a primeira versão do sistema de autenticação com 2FA, desenvolvida para oferecer uma solução segura e eficiente para gerenciamento de usuários.  
+
+### Características principais desta versão:  
+- Implementação do fluxo básico de registro e login com validação de credenciais.  
+- Suporte a autenticação de dois fatores (2FA) via TOTP, compatível com aplicativos como Google Authenticator e Authy.  
+- Geração de QR Code para facilitar a configuração do 2FA pelos usuários.  
+- Uso de JSON Web Tokens (JWT) para gerenciamento seguro de sessões.  
+- Armazenamento seguro de senhas utilizando hashing com bcryptjs.  
+- Rotas protegidas para operações sensíveis, garantindo que somente usuários autenticados possam acessar funcionalidades relacionadas ao 2FA.  
+
+Esta versão serve como base sólida para futuras melhorias, como integração com serviços externos, UI, auditoria de segurança e mais recursos avançados.
+
+
 
 ---
 
