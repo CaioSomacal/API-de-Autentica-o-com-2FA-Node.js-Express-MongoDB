@@ -78,7 +78,9 @@ Sistema robusto de autenticação de usuários com suporte a autenticação de d
 
 ---
 
-Quer que eu gere exemplos de requisições ou alguma outra seção?
+## Autor
 
-
+| Nome          | Descrição                                | Contatos                                  |
+|---------------|-----------------------------------------|-------------------------------------------|
+| Caio Somacal  | Desenvolvedor Full Stack & Analista de Segurança | [GitHub](https://github.com/seu-usuario) | [LinkedIn](https://linkedin.com/in/seu-usuario) |
 
